@@ -1,0 +1,53 @@
+/** text destination **/
+.text-destination {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 60px;
+	text-align: center;
+	font-feature-settings: 'liga'
+}
+.text-destination h2 {
+	margin-top: 80px;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 60px;
+	text-align: center;
+	font-feature-settings: 'liga' off;
+	color: #5F7161;
+}
+.text-destination p{
+	margin-top: 4px;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 150%;
+	text-align: center;
+	letter-spacing: 0.03em;
+	color: #B0B0B0;
+}
+
+/** Card Destinantion**/
+.card-destination-text{
+	position: absolute;
+	width: 90px;
+	height: 29px;
+	left: 204px;
+	top: 1221px;
+
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 29px;
+	/* identical to box height */
+
+	text-align: center;
+	font-feature-settings: 'liga' off;
+
+	color: #FFFFFF;
+}

@@ -1,11 +1,10 @@
 import React from 'react';
 import "assets/scss/style.scss"
+import PageHome from "./pages/PageHome";
 
 function App() {
   return (
-    <div className="App">
-      Hello World
-    </div>
+	<PageHome />
   );
 }
 
