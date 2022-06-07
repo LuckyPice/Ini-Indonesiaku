@@ -1,0 +1,58 @@
+.reccomend-card{
+	width: 1264px;
+	height: 509.08px;
+	display: flex;
+	margin: 50px 0;
+}
+.reccomend-img {
+	width: 432px;
+	height: 509px;
+	border-radius: 10px 0px 0px 10px;
+}
+.reccomend-text {
+	padding-left: 48px;
+	padding-bottom: 70px;
+}
+.reccomend-text h5{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 30px;
+	font-feature-settings: 'liga' off;
+	color: #FFD659;
+}
+.reccomend-text h3{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 60px;
+	letter-spacing: 0.05em;
+	font-feature-settings: 'liga' off;
+	color: #475549;
+}
+.reccomend-text h6{
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 30px;
+	font-feature-settings: 'liga' off;
+	color: rgba(51, 51, 51, 0.75);
+}
+.reccomend-text p {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 30px;
+	text-align: justify;
+	font-feature-settings: 'liga' off;
+	color: rgba(51, 51, 51, 0.75);
+}
+.reccomend-text Button {
+	width: 225px;
+	height: 50px;
+	margin-top: 77px;
+}

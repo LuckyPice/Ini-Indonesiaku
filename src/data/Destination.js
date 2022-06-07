@@ -1,35 +1,44 @@
+import jakaartaimg from '../assets/image/content/jakarta.jpg';
+import baliimg from '../assets/image/content/bali.jpg';
+import jogjaimg from '../assets/image/content/yogyakarta.jpg';
+import semarangimg from "../assets/image/content/semarang.jpg";
+import lombokimg from "../assets/image/content/lombok.jpg";
+import nttimg from "../assets/image/content/NTT.jpg";
+import bandungimg from "../assets/image/content/bandung.jpg";
+import malangimg from "../assets/image/content/malang.jpg"
+
 const destination = [
 	{
 		nama: "Jakarta",
-		gambar: "./assets/img/jakarta.jpg",
+		gambar: jakaartaimg,
 	},
 	{
 		nama: "Bali",
-		gambar: "../assets/image/content/bali.jpg",
+		gambar: baliimg,
 	},
 	{
 		nama: "Yogyakarta",
-		gambar: "../assets/image/content/yogyakarta.jpg",
+		gambar: jogjaimg,
 	},
 	{
 		nama: "Semarang",
-		gambar: "../assets/image/content/semarang.jpg",
+		gambar: semarangimg,
 	},
 	{
 		nama: "Lombok",
-		gambar: "../assets/image/content/lombok.jpg",
+		gambar: lombokimg,
 	},
 	{
 		nama: "NTT",
-		gambar: "../assets/image/content/NTT.jpg",
+		gambar: nttimg,
 	},
 	{
 		nama: "Bandung",
-		gambar: "../assets/image/content/bandung.jpg",
+		gambar: bandungimg,
 	},
 	{
 		nama: "Malang",
-		gambar: "../assets/image/content/malang.jpg",
+		gambar: malangimg,
 	}
 ]
 

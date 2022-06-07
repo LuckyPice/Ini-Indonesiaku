@@ -32,22 +32,21 @@
 }
 
 /** Card Destinantion**/
-.card-destination-text{
-	position: absolute;
-	width: 90px;
+.destination-image img{
+	width: 292px;
+	height: 372.08px;
+}
+.destination-text {
+	width: 43px;
 	height: 29px;
-	left: 204px;
-	top: 1221px;
 
 	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 700;
 	font-size: 24px;
 	line-height: 29px;
-	/* identical to box height */
-
 	text-align: center;
 	font-feature-settings: 'liga' off;
 
-	color: #FFFFFF;
+	color: #992a2a;
 }
